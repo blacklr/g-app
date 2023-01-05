@@ -1,5 +1,0 @@
-[control]
-control ansible_connection=local
-
-[jenkins]
-jenkins01 ansible_host=lrblackstock1b.mylabserver.com ansible_user=ansible ansible_become_pass="cmdline_ovride"
